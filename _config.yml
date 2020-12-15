@@ -83,7 +83,7 @@ author:
   name             : "Hao Chen"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Nice, France"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=UdKS8R0AAAAJ&hl=en"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "chenhao2345"
   google_plus      :
   keybase          :
   instagram        :
@@ -182,10 +182,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
