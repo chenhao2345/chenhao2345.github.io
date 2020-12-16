@@ -9,5 +9,3 @@ venue: 'CVPRW'
 paperurl: 'https://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Chen_Partition_and_Reunion_A_Two-Branch_Neural_Network_for_Vehicle_Re-identification_CVPRW_2019_paper.pdf'
 ---
 
-This paper is about vehicle re-identification.
-[Download paper here](https://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Chen_Partition_and_Reunion_A_Two-Branch_Neural_Network_for_Vehicle_Re-identification_CVPRW_2019_paper.pdf)
