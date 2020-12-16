@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://chenhao2345.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenhao2345/chenhao2345.github.io"
-teaser                   : "haochen.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hao Chen"
-  avatar           : "profile.png"
+  avatar           : "haochen.jpg"
   bio              : "PhD candidate at INRIA"
   location         : "Nice, France"
   employer         :
@@ -182,10 +182,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
