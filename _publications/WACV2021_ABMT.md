@@ -5,8 +5,7 @@ permalink: /publication/WACV2021_ABMT
 excerpt: 
 date: 2021-1-1
 venue: 'WACV'
-paperurl: 'https://arxiv.org/abs/2011.13776'
+paperurl: 'https://arxiv.org/pdf/2011.13776.pdf'
 ---
 
-[Download paper here](https://arxiv.org/pdf/2011.13776.pdf)
 
