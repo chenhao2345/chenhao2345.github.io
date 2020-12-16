@@ -6,8 +6,7 @@ permalink: /publication/WACV2020_SCR
 excerpt: ''
 date: 2020-3-1
 venue: 'WACV'
-paperurl: 'https://openaccess.thecvf.com/content_WACV_2020/html/Chen_Learning_Discriminative_and_Generalizable_Representations_by_Spatial-Channel_Partition_for_Person_WACV_2020_paper.html'
+paperurl: 'https://openaccess.thecvf.com/content_WACV_2020/papers/Chen_Learning_Discriminative_and_Generalizable_Representations_by_Spatial-Channel_Partition_for_Person_WACV_2020_paper.pdf'
 ---
 
-[Download paper here](https://openaccess.thecvf.com/content_WACV_2020/papers/Chen_Learning_Discriminative_and_Generalizable_Representations_by_Spatial-Channel_Partition_for_Person_WACV_2020_paper.pdf)
 
