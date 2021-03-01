@@ -15,3 +15,4 @@ I am a third year Ph.D. candidate at [Team STARS](https://team.inria.fr/stars/en
 News
 ======
 - One paper accepted in CVPR 2021.
+- One paper accepted in WACV 2021.
