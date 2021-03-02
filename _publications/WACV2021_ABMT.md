@@ -5,6 +5,7 @@ permalink: /publication/WACV2021_ABMT
 excerpt: '[<a href="https://arxiv.org/pdf/2011.13776.pdf">Paper</a>] [<a href="https://github.com/chenhao2345/ABMT">Code</a>]'
 date: 2021-1-1
 venue: 'WACV'
+pubtype: 'conference'
 ---
 
 
