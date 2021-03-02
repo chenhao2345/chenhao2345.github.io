@@ -6,22 +6,22 @@ author_profile: true
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You can also find my articles on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
 
-Conference Papers
-======
-
+<h2>Journal Articles</h2>
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.pubtype == 'journal' %}
+      {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
 
-Journal Papers
-======
-
-{% for post in site.journals reversed %}
-  {% include archive-single.html %}
+<h2>Conference Papers</h2>
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'conference' %}
+      {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
