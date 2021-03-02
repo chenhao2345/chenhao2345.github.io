@@ -17,3 +17,11 @@ Conference Papers
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+Journal Papers
+======
+
+{% for post in site.posts reversed %}
+  {% include archive-single.html %}
+{% endfor %}
