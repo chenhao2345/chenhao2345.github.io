@@ -22,6 +22,6 @@ Conference Papers
 Journal Papers
 ======
 
-{% for post in site.posts reversed %}
+{% for post in site.journals reversed %}
   {% include archive-single.html %}
 {% endfor %}
